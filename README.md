@@ -38,4 +38,4 @@ upstream php7 {
 
 service nginx reload
 
-service php7.2-fpm reload
+service php7.3-fpm reload
