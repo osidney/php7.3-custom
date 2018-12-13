@@ -5,7 +5,7 @@ apt update && apt install php7.3-fpm php7.3-xml php7.3-bz2 php7.3-zip php7.3-mys
 
 <b>Descompactando arquivos</b>
 
-wget https://github.com/sidneydevelop/php7.2-custom/archive/master.zip
+wget https://github.com/sidneydevelop/php7.3-custom/archive/master.zip
 
 unzip master.zip
 
